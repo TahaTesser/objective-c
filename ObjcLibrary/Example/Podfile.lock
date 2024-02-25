@@ -1,0 +1,16 @@
+PODS:
+  - ObjcLibrary (0.1.0)
+
+DEPENDENCIES:
+  - ObjcLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  ObjcLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ObjcLibrary: a6bc5eb0721b882da4ee9665cbf7b0b29e7ff8eb
+
+PODFILE CHECKSUM: 4e8466a221617a1854c4b26f8a6ab83c55531d47
+
+COCOAPODS: 1.15.2
